@@ -1,16 +1,16 @@
 {
-  "name": "eagletime-digital-signage",
-  "version": "1.0.0",
-  "description": "A recreation of the app used to display Eagletime Digital Signage, made with Tauri",
-  "main": "index.js",
-  "scripts": {
-    "tauri": "tauri",
-    "start": "tauri dev",
-    "build": "tauri build"
-  },
-  "author": "",
-  "license": "CC-BY-NC-SA-4.0",
-  "devDependencies": {
-    "@tauri-apps/cli": "^1.5.6"
-  }
+	"name": "eagletime-digital-signage",
+	"version": "1.0.1",
+	"description": "A recreation of the app used to display Eagletime Digital Signage, made with Tauri",
+	"main": "index.js",
+	"scripts": {
+		"tauri": "tauri",
+		"start": "tauri dev",
+		"build": "tauri build"
+	},
+	"author": "",
+	"license": "CC-BY-NC-SA-4.0",
+	"devDependencies": {
+		"@tauri-apps/cli": "^1.5.6"
+	}
 }
